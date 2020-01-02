@@ -1,0 +1,18 @@
+
+Hi Sir ,
+
+
+As you mentioned in the previous mail . We have removed the oauth in the 
+estimation . Total Time is 101 hours . 
+
+Development End date - 15/01/2020.
+Jest End Date & UAT  - 19/01/2020.
+Delivery date with the documentation - 20/01/2020.
+
+We have created the Repo , before EOD will send you the repo details 
+for both client & Server . 
+
+Regarding the screen demo and date wise split please check the attachment . 
+
+Thanks & Regards,
+Logesh S
